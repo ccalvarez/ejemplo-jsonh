@@ -1,0 +1,103 @@
+[
+  {
+    "territorio": 0,
+    "nivel1": 1,
+    "nivel2": 4,
+    "nivel3": 6,
+    "totalMesas": 3,
+    "mesasProcesadas": 1,
+    "votosEmitidos": 278,
+    "votosValidos": 272,
+    "nulosYBlancos": 6,
+    "electores": 662,
+    "v": [
+      { "codPartido": 4, "votos": 107 },
+      { "codPartido": 6, "votos": 86 },
+      { "codPartido": 9, "votos": 2 },
+      { "codPartido": 11, "votos": 70 },
+      { "codPartido": 73, "votos": 1 },
+      { "codPartido": 149, "votos": 1 },
+      { "codPartido": 173, "votos": 5 }
+    ],
+    "j": [
+      {
+        "n": 234,
+        "totalMesas": 3,
+        "mesasProcesadas": 1,
+        "votosEmitidos": 278,
+        "votosValidos": 272,
+        "nulosYBlancos": 6,
+        "electores": 662,
+        "v": [
+          {
+            "codPartido": 4,
+            "votos": 107
+          },
+          {
+            "codPartido": 6,
+            "votos": 86
+          },
+          {
+            "codPartido": 9,
+            "votos": 2
+          },
+          {
+            "codPartido": 11,
+            "votos": 70
+          },
+          {
+            "codPartido": 73,
+            "votos": 1
+          },
+          {
+            "codPartido": 149,
+            "votos": 1
+          },
+          {
+            "codPartido": 173,
+            "votos": 5
+          }
+        ]
+      },
+      {
+        "n": 235,
+        "totalMesas": 3,
+        "mesasProcesadas": 1,
+        "votosEmitidos": 278,
+        "votosValidos": 272,
+        "nulosYBlancos": 6,
+        "electores": 662,
+        "v": [
+          {
+            "codPartido": 4,
+            "votos": 107
+          },
+          {
+            "codPartido": 6,
+            "votos": 86
+          },
+          {
+            "codPartido": 9,
+            "votos": 2
+          },
+          {
+            "codPartido": 11,
+            "votos": 70
+          },
+          {
+            "codPartido": 73,
+            "votos": 1
+          },
+          {
+            "codPartido": 149,
+            "votos": 1
+          },
+          {
+            "codPartido": 173,
+            "votos": 5
+          }
+        ]
+      }
+    ]
+  }
+]
