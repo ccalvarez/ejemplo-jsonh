@@ -10,6 +10,10 @@ Dentro de la carpeta `/js` ver los ejemplos:
 
 ### Comandos para ejecutar los ejemplos. (Desde una terminal de comandos ejecutar lo siguiente)
 
+#### Nota:
+
+Requiere tener instalado [Node.js](https://nodejs.org/en/)
+
 ```bash
 # compresion
 node comprimir
