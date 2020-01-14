@@ -1,6 +1,6 @@
 # ejemplo-jsonh
 
-Ejemplo de uso de librería JSONH comprimiendo y descomprimiendo los resultados de las elecciones municipales.
+Ejemplo de uso de la librería Open Source [JSONH](https://github.com/WebReflection/JSONH) comprimiendo y descomprimiendo los resultados de las elecciones municipales.
 
 Dentro de la carpeta `/js` ver los ejemplos:
 
